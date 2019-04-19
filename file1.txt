@@ -1,4 +1,4 @@
-this is my  third line
-this is my second line
+updated throd line
+s my second line
 this is my first file
 
